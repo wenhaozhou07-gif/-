@@ -22,6 +22,12 @@ docs/demo-script.md
 demo/synapse-demo.gif
 ```
 
+## 团队协作
+
+项目协作者与贡献说明见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
+
+GitHub 的 `Contributor` 由提交记录自动统计。新协作者需要使用自己的 GitHub 账号完成一次 commit 并推送到 `main` 分支后，才会出现在 Contributors 列表中。
+
 ## 功能总览
 
 ### 1. 语音同传
