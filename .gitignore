@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# local secrets
+.env
+.env.local
+.env.*.local
+
+# build output
+dist/
+
+# local runtime / temporary artifacts
+.DS_Store
+.pdf-build/
+pdf-preview/
+screenshots/
+PRODUCT_ARCHITECTURE_PRINT.html
+PRODUCT_ARCHITECTURE.md
+Synapse_AI_同声传译助手_产品架构文档.pdf
+pdf.css
+scripts/prepare-pdf.mjs
+*.log
+
+# editor state
+.vscode/
+.idea/
+
+# optional local captures generated while iterating
+demo/raw/
+demo/frames/
